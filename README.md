@@ -1,8 +1,8 @@
 # SM1 Assessed Practical
-The first assessed practical for MSc Statistical Science at University of Oxford.
+The first assessed practical for the course Applied Statistics of MSc Statistical Science at University of Oxford.
 
 ## General Description
-* Course: SM1 Applied Statistics
+* Course: SB1.1/SM1 Applied Statistics
 * Synopsis: Linear Model and Generalised Linear Model, Model Selection, Interpretation
 * Level: Degree Final Year or Master's
 * Language: R
