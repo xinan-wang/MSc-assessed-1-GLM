@@ -3,7 +3,7 @@ The first assessed practical for the course Applied Statistics of MSc Statistica
 
 ## General Description
 * Course: SB1.1/SM1 Applied Statistics
-* Synopsis: Linear Model and Generalised Linear Model, Model Selection, Interpretation
+* Synopsis: Generalised Linear Model, Iterative Reweighted Lease Square algorithm, Model Comparison and Interpretation
 * Level: Degree Final Year or Master's
 * Language: R
 
@@ -11,4 +11,4 @@ The first assessed practical for the course Applied Statistics of MSc Statistica
 Pull requests are welcome. For major concerns, please open an issue first to discuss what you would like to know.
 
 ## Course Leader & Marker
-[Dr. Neil Laws](http://www.stats.ox.ac.uk/all-people/neil-laws/)
+[Prof. Frank Windmeijer](https://www.stats.ox.ac.uk/all-people/professor-frank-windmeijer/)
